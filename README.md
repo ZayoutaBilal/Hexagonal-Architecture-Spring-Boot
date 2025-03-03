@@ -7,6 +7,7 @@ The goal of this project is to implement a **User Management System** using **He
 ## What is Hexagonal Architecture?
 
 Hexagonal Architecture is a design pattern that separates **business logic** from external dependencies like databases, APIs, or user interfaces. It promotes maintainability, testability, and scalability by organizing code into three layers:
+![Hexagonal Architecture](image.png)
 
 - **Domain Layer**: Core business logic.
 - **Application Layer**: Handles API requests and service logic.
